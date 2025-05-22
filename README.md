@@ -1,5 +1,5 @@
-# Project-Progress-1
-date: 24-04-25
+#Mariah Kavika, Asilika Seru MM466 Project
+
 ------------------------------------------------------------------------------------------------------------------------------
 First, we downloaded our datasets and examined the number of rows and columns, reviewed the column headers and identified the suitable machine learning algorithm which was classification. Next, we proceeded with data cleaning, where we eliminated variables (columns) that recorded certain datasets which were not commonly employed in the exisiting buildings automation system. From this, the number of variables decreased from 30 to 20 in the steps to follow. 
 Next, we divided our dataset into five classes: Outdoor Air Temperature Sensor Bias, Supply Air Temperature Sensor Bias, OA Damper, Cooling Coil Valve, and Fault-Free where we chose to explore the raw data based on its fault intensity. For instance,
